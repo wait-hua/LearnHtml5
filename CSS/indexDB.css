@@ -1,0 +1,27 @@
+input {
+	margin-bottom: 5px;
+}
+input[type="button"] {
+	margin-left:180px;
+}
+#tb {
+	border: 1px solid black;
+}
+table, th{
+	border: 2px solid black;
+}
+td {
+	border: 1px solid black;
+}
+#one {
+	border: 1px solid #ccc;
+	padding: 3px;
+	width: 222px;
+}
+#two {
+	border: 1px solid #ccc;
+	padding: 3px;
+	position: absolute;
+	top:100px;
+	left:260px;
+}
